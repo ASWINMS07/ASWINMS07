@@ -1,16 +1,18 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=Hey+I'm+Aswin+%28Ash%29;Cybersecurity+%7C+Offensive+Security;CTF+Player+%7C+Bug+Bounty+Hunter;Learning+by+breaking+ethically" />
+</p>
 
-<!--
-**ASWINMS07/ASWINMS07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+```bash
+aswin@github:~$ whoami
+Aswin M S
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+aswin@github:~$ cat about.txt
+Role        : Cybersecurity Student
+Focus       : Offensive Security
+Interest    : Web | API | CTF | Bug Bounty
+OS          : Linux (daily driver)
+
+aswin@github:~$ status
+Grinding. Always learning.
